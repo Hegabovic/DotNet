@@ -1,0 +1,15 @@
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\bin\Debug\net6.0\LinqDemo.exe
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\bin\Debug\net6.0\LinqDemo.deps.json
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\bin\Debug\net6.0\LinqDemo.runtimeconfig.json
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\bin\Debug\net6.0\LinqDemo.dll
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\bin\Debug\net6.0\LinqDemo.pdb
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\obj\Debug\net6.0\LinqDemo.csproj.AssemblyReference.cache
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\obj\Debug\net6.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\obj\Debug\net6.0\LinqDemo.AssemblyInfoInputs.cache
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\obj\Debug\net6.0\LinqDemo.AssemblyInfo.cs
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\obj\Debug\net6.0\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\obj\Debug\net6.0\LinqDemo.dll
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\obj\Debug\net6.0\refint\LinqDemo.dll
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\obj\Debug\net6.0\LinqDemo.pdb
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\obj\Debug\net6.0\LinqDemo.genruntimeconfig.cache
+C:\Users\abdal\OneDrive\Desktop\dot net\EF\LinqDemo\obj\Debug\net6.0\ref\LinqDemo.dll
